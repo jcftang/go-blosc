@@ -16,4 +16,6 @@
 
 #include "blosc.c"
 #include "blosclz.c"
+#include "delta.c"
+#include "schunk.c"
 #include "shuffle.c"

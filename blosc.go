@@ -2,7 +2,7 @@
 package blosc
 
 /*
-#cgo CFLAGS: -O2 -msse2 -I${SRCDIR}/c-blosc/blosc/
+#cgo CFLAGS: -O2 -msse2 -I${SRCDIR}/c-blosc2/blosc/
 #cgo LDFLAGS: -lpthread
 #include "blosc_include.h"
 */
